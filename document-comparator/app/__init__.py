@@ -1,0 +1,3 @@
+"""
+Document Comparator Application Package
+"""
