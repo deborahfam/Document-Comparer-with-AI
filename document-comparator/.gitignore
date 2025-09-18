@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Data directory contents (keep structure but ignore files)
+data/*
+!data/.gitkeep
+
+# Temporary files
+*.tmp
+temp/
+
+# Streamlit cache
+.streamlit/
